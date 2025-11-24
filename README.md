@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17703214.svg)](https://doi.org/10.5281/zenodo.17703214)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17703128.svg)](https://doi.org/10.5281/zenodo.17703128)
 
 # SpectralViewer
 SpectralViewer: A web application for interactive visualization of imaging spectroscopy data and spectral library references.
