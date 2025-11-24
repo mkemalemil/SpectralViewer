@@ -1,4 +1,5 @@
-https://zenodo.org/badge/DOI/10.5281/zenodo.17703214.svg
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17703214.svg)](https://doi.org/10.5281/zenodo.17703214)
+
 # SpectralViewer
 SpectralViewer: A web application for interactive visualization of imaging spectroscopy data and spectral library references.
 Current deployment: https://www.esrs.wmich.edu/webmap/SpectralViewer/
