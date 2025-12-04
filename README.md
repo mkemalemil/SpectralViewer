@@ -5,3 +5,5 @@ SpectralViewer: An interactive web application for visualizing imaging spectrosc
 Current deployment: https://www.esrs.wmich.edu/webmap/SpectralViewer/
 
 Permanent, citable DOI available through Zenodo: [10.5281/zenodo.17703128](https://doi.org/10.5281/zenodo.17703128)
+
+This work was supported by NASA under Award No. 80NSSC24K0863.
